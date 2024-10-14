@@ -135,7 +135,7 @@ $(document).ready(function () {
 
 
     // Set the countdown date (example: December 31, 2024)
-    const countdownDate = new Date("November 9, 2024 08:00:00").getTime();
+    const countdownDate = new Date("November 10, 2024 11:00:00").getTime();
     const dayElement = document.getElementById("day");
     const hourElement = document.getElementById("hour");
     const minuteElement = document.getElementById("minute");
